@@ -8,7 +8,7 @@ utilizo  plataforma
 
 [ALURA](https:www.alura.com.br)
 
-você pode entrar em contato comgo
+##você pode entrar em contato comigo##
 
 arantes.silva.ana@escola.pr.gov.br3,
 
